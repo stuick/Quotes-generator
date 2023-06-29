@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Quotes Generator</string>
+    <string name="text_view_quote">“Success is not final, failure is not fatal: it is the courage to continue that counts.” ―Winston Churchill!</string>
 </resources>
